@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 36px;
+    line-height: 36px;
+    background-color: black;
+    font-family: monospace;
+    font-size: 13px;
+    
+
+}
+
+li{
+    float: left;
+    border: 1px solid blue;
+}
+
+a{
+    display: block;
+    padding: 0 28px;
+    color: white;
+    text-decoration: none;
+
+}
+a:hover{
+    background-color: turquoise;
+}
+div{
+    padding: 60px 350px;
+}
+
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#6abadeba;  
+    font-family: 'Arial';  
+}  
+
+
+.amit{
+    float: right;
+}
+.login{
+    
+        
+}
+.login:hover{
+    background-color: lightseagreen;
+}
+.active{
+    background-color: turquoise;
+}
